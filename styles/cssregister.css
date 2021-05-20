@@ -1,0 +1,56 @@
+
+.gros a:hover
+{
+        color: lightgrey;
+}
+
+.ecriture{
+    text-decoration: white ;
+    font-family: 'Catamaran', sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 16px;
+}
+.ecriture5{
+    text-decoration: chartreuse ;
+    font-family: 'Catamaran', sans-serif;
+    color: chartreuse;
+    letter-spacing: 2px;
+    font-size: x-large;
+}
+.barre{
+    width: 100px;
+    height: 100px;
+    padding: 1px;
+    background-color: white;
+    margin: 10px;
+}
+.saut{
+    height: 200px;
+    width: 500px;
+    margin: auto;
+}
+.saut2{
+    height: 280px;
+    width: 300px;
+    margin: auto;
+}
+.saut3{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
+.saut4{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  padding: 30px;
+  vertical-align: text-top;
+  text-decoration: white ;
+  font-family: 'Open Sans', sans-serif;
+   color: white;
+}
